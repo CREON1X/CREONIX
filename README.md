@@ -17,7 +17,7 @@ The designs focus on clean visuals, brand identity, and engaging graphics for so
 
 | Banner Example |
 |----------------|
-| ![]() |
+| ![](1.jpg) |
 | ![](2.png) |
 | ![](3.jpg) |
 | ![](4.jpg) |
